@@ -1,4 +1,4 @@
-      **JAVA PROJECT ( FUNCTIONAL CONTACT & CELL MANAGEMENT). **
+JAVA PROJECT ( FUNCTIONAL CONTACT & CELL MANAGEMENT).
 
 File Handling - Multi-D Arrays - Control Structures - Sequences - Exception Handling.
 ----------------------------------------------------------------
